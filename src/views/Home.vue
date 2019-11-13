@@ -27,7 +27,7 @@
           >
             <v-icon large color="gray darken-2">mdi-account-group</v-icon>
             <br />
-            <span style="padding: 10px; display: block;">keyholder</span>
+            <span style="padding: 10px; display: block;">Keyholder</span>
           </v-card>
         </router-link>
       </v-row>

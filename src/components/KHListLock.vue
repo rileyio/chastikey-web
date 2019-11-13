@@ -15,7 +15,7 @@
           outlined
           small
         >
-          <span v-if="!lock.running[0].fixed">Varible</span>
+          <span v-if="!lock.running[0].fixed">Variable</span>
           <span v-else>Fixed</span>
         </v-chip>
         <!-- Display lock type: Cumulative -vs- Non-C -->
