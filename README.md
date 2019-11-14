@@ -1,3 +1,3 @@
-# chastikey-web
+# THIS PROJECT HAS MOVED!!
 
-More info coming soon!
+**New Location:** https://github.com/ChastiKey/web
